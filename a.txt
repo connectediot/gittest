@@ -1,3 +1,11 @@
 ﻿1번줄작업!!
 2번줄작업!!-집
 3번줄작업!!-집
+
+windows
+
+git config --global core.autocrlf true
+
+vagrant
+
+git config --global core.autocrlf input
